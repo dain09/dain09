@@ -76,7 +76,7 @@ I love sharing knowledge, collaborating with fellow devs, and turning **complex 
 - 👑 Launch my **personal portfolio website** to showcase my projects in detail.  
 - 🔧 Deepen my expertise in **Kotlin & Jetpack Compose** for modern Android development.  
 - 🤝 Contribute to a major **AOSP-based ROM** like LineageOS or Pixel Experience.  
-- 🧠 Share tutorials and knowledge for the Android dev community.  
+- 🧠 Share tutorials and knowledge for the Android dev community (not me its the guy on pfp).  
 - ⚡ Experiment with **custom kernels** and **system optimizations**.  
 
 ---
