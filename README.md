@@ -1,12 +1,14 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon.png" alt="Dragon" width="100" height="100" />
+
 # Abdallah Ibrahim
 ### (アブダラ・イブラヒム)
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Digital+Swordsmith+%7C+AOSP+Artisan" alt="Typing SVG"></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Code+Ronin+%7C+AOSP+Kensei+(剣聖)" alt="Typing SVG"></a>
 
 <p>
-  Driven by a philosophy of <strong><i>Kodawari (こだわり)</i></strong>—a relentless pursuit of perfection—I don't just write code. I sculpt operating systems from the source, transforming the core of Android into something powerful, efficient, and uniquely tailored.
+  I walk the path of a Code Ronin—a masterless developer bound only by the Bushido of clean, efficient code. My domain is the Android Open Source Project, where I treat the source code as <i>tamahagane</i> steel, forging it into a flawless blade. Every commit is a precise strike, every system optimization a mastered kata.
 </p>
 
 </div>
@@ -14,14 +16,13 @@
 ---
 
 <p align="center">
-  <a href="https://t.me/D_ai_n"><img src="https://img.shields.io/badge/Telegram-Connect-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/></a>
+  <a href="https://t.me/D_ai_n"><img src="https://img.shields.io/badge/Telegram-Sparring_Ground-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/></a>
   &nbsp;
-  <!-- Add links to your Portfolio, LinkedIn, etc. here -->
 </p>
 
 ---
 
-### 「 最新プロジェクト 」— Featured Project
+### 「 業物 」— A Masterpiece Blade
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="40" alt="androidstudio logo"  />
@@ -30,38 +31,38 @@
     <strong>Chef-in-Your-Pocket</strong>
   </p>
   <p>
-    Successfully architected and completed a comprehensive AOSP-based project, showcasing deep system-level integration and custom feature development. This project stands as a testament to turning complex requirements into a seamless user experience.
+    A successfully forged project that demonstrates mastery over the AOSP framework. This work showcases deep system-level integration and custom feature development, engineered with the precision of a master swordsmith.
   </p>
 </div>
 
 ---
 
-### 「 専門知識 」— Core Expertise
+### 「 流派 」— My School of Craft
 
 <p align="center">
-My craft is centered around the deepest layers of the Android ecosystem. I specialize in:
+My development style is built on three pillars of mastery:
 </p>
 
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="33%">
       <strong>System Internals & Frameworks</strong><br>
-      <sub>Modifying and enhancing the core Android framework for custom functionalities.</sub>
+      <sub>Deconstructing the core to rebuild it stronger and more efficient.</sub>
     </td>
     <td align="center" width="33%">
       <strong>Kernel Optimization</strong><br>
-      <sub>Tweaking and building custom kernels to maximize performance and battery efficiency.</sub>
+      <sub>Sharpening the very heart of the OS for peak performance and endurance.</sub>
     </td>
     <td align="center" width="33%">
       <strong>Custom ROM Development</strong><br>
-      <sub>Building stable, feature-rich AOSP-based ROMs from the ground up.</sub>
+      <sub>Forging unique, stable, and feature-rich experiences from raw source.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-### 「 技術 」— Tech Arsenal
+### 「 武器庫 」— The Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,python,bash&perline=6&theme=dark" alt="Languages" />
@@ -71,7 +72,7 @@ My craft is centered around the deepest layers of the Android ecosystem. I speci
 
 ---
 
-### 「 分析 」— GitHub Analytics
+### 「 戦績 」— Record of Deeds
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dain09&show_icons=true&theme=radical&bg_color=0d1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true&count_private=true" height="160" alt="Abdallah's GitHub Stats"/>
@@ -80,22 +81,22 @@ My craft is centered around the deepest layers of the Android ecosystem. I speci
 
 ---
 
-> <p align="center"><i>"From one thing, know ten thousand things."</i></p>
-> <p align="center"><sub>– Miyamoto Musashi, The Book of Five Rings</sub></p>
+> <p align="center"><i>"A warrior's honor is not in his blade, but in the integrity of its use."</i></p>
+> <p align="center"><sub>In the world of code, integrity is everything.</sub></p>
 
 ---
 
-### 「 道 」— The Path Forward
+### 「 修行 」— The Path of Discipline
 
-My journey is one of continuous improvement and contribution. Key objectives on my path:
+My training is relentless. The objectives on my path are clear:
 
-»   Become a core contributor to a leading AOSP project like **LineageOS**.
-»   Architect and deploy a personal portfolio to document my craft and projects.
-»   Share knowledge through in-depth tutorials on **AOSP & Kernel Development**.
-»   Achieve mastery in modern Android development with **Jetpack Compose**.
+❖   Become a core contributor to a legendary clan like **LineageOS**.
+❖   Construct a digital **Dojo** (portfolio) to chronicle my journey and my creations.
+❖   Share the warrior's wisdom through scrolls (tutorials) on **AOSP & Kernel Forging**.
+❖   Master the modern martial art of **Jetpack Compose**.
 
 <br>
 
 <p align="center">
-  <sub><sup>Perfection in every line.</sup></sub>
+  <sub><sup>Honor in Code. Precision in Execution.</sup></sub>
 </p>
