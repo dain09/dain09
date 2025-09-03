@@ -2,7 +2,7 @@
 
 # Abdallah Ibrahim
 
-### <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=4000&pause=1000&color=C9B037&center=true&vCenter=true&width=500&lines=AOSP+Artisan+%7C+Software+Developer" alt="Typing SVG"></a>
+### <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=AOSP+Artisan+%7C+Software+Developer" alt="Typing SVG"></a>
 
 <p>
   Architect of Custom Android Experiences. I don't just write code; I sculpt operating systems from the source, transforming the core of Android into something powerful, efficient, and uniquely tailored.
@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://t.me/D_ai_n"><img src="https://img.shields.io/badge/Telegram-Connect-000000?style=for-the-badge&logo=telegram&logoColor=C9B037"/></a>
+  <a href="https://t.me/D_ai_n"><img src="https://img.shields.io/badge/Telegram-Connect-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/></a>
   &nbsp;
   <!-- Add links to your Portfolio, LinkedIn, etc. here -->
 </p>
@@ -73,8 +73,8 @@ My craft is centered around the deepest layers of the Android ecosystem. I speci
 ### ◈ GitHub Analytics ◈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dain09&show_icons=true&theme=radical&bg_color=0d1117&title_color=C9B037&icon_color=C9B037&text_color=FFFFFF&hide_border=true&count_private=true" height="160" alt="Abdallah's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dain09&layout=compact&theme=radical&bg_color=0d1117&title_color=C9B037&text_color=FFFFFF&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dain09&show_icons=true&theme=radical&bg_color=0d1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true&count_private=true" height="160" alt="Abdallah's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dain09&layout=compact&theme=radical&bg_color=0d1117&title_color=FFFFFF&text_color=FFFFFF&hide_border=true&langs_count=8" height="160" alt="Top Languages"/>
 </p>
 
 ---
