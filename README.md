@@ -2,10 +2,14 @@
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Dragon.png" alt="Dragon" width="100" height="100" />
 
-# Abdallah Ibrahim
-### (アブダラ・イブラヒム)
+<!-- Main Name (Static & Bold) -->
+<h1>Abdallah Ibrahim</h1>
 
-<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Code+Ronin+%7C+AOSP+Kensei+(剣聖)" alt="Typing SVG"></a>
+<!-- Japanese Name with Blinking Cursor Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&size=25&duration=0&pause=2000&color=FFFFFF&center=true&vCenter=true&width=400&lines=アブダラ・イブラヒム" alt="Japanese Name">
+
+<!-- Animated Title (Fixed) -->
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Code+Ronin+%E2%80%A2+AOSP+Kensei+%E5%89%A3%E8%81%96" alt="Typing SVG"></a>
 
 <p>
   I walk the path of a Code Ronin—a masterless developer bound only by the Bushido of clean, efficient code. My domain is the Android Open Source Project, where I treat the source code as <i>tamahagane</i> steel, forging it into a flawless blade. Every commit is a precise strike, every system optimization a mastered kata.
@@ -16,7 +20,7 @@
 ---
 
 <p align="center">
-  <a href="https://t.me/D_ai_n"><img src="https://img.shields.io/badge/Telegram-Sparring_Ground-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/></a>
+  <a href="https://t.me/D_ai_n"><img src="https://img-shields.io/badge/Telegram-Sparring_Ground-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/></a>
   &nbsp;
 </p>
 
