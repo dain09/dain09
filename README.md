@@ -1,11 +1,12 @@
 <div align="center">
 
 # Abdallah Ibrahim
+### (アブダラ・イブラヒム)
 
-### <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=AOSP+Artisan+%7C+Software+Developer" alt="Typing SVG"></a>
+<a href="#"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=25&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=550&lines=Digital+Swordsmith+%7C+AOSP+Artisan" alt="Typing SVG"></a>
 
 <p>
-  Architect of Custom Android Experiences. I don't just write code; I sculpt operating systems from the source, transforming the core of Android into something powerful, efficient, and uniquely tailored.
+  Driven by a philosophy of <strong><i>Kodawari (こだわり)</i></strong>—a relentless pursuit of perfection—I don't just write code. I sculpt operating systems from the source, transforming the core of Android into something powerful, efficient, and uniquely tailored.
 </p>
 
 </div>
@@ -20,7 +21,7 @@
 
 ---
 
-### ◈ Featured Project ◈
+### 「 最新プロジェクト 」— Featured Project
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="40" alt="androidstudio logo"  />
@@ -35,13 +36,13 @@
 
 ---
 
-### ◈ Core Expertise ◈
+### 「 専門知識 」— Core Expertise
 
 <p align="center">
 My craft is centered around the deepest layers of the Android ecosystem. I specialize in:
 </p>
 
-<table align="center">
+<table align="center" style="border: none;">
   <tr>
     <td align="center" width="33%">
       <strong>System Internals & Frameworks</strong><br>
@@ -60,7 +61,7 @@ My craft is centered around the deepest layers of the Android ecosystem. I speci
 
 ---
 
-### ◈ Tech Arsenal ◈
+### 「 技術 」— Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,kotlin,c,cpp,python,bash&perline=6&theme=dark" alt="Languages" />
@@ -70,7 +71,7 @@ My craft is centered around the deepest layers of the Android ecosystem. I speci
 
 ---
 
-### ◈ GitHub Analytics ◈
+### 「 分析 」— GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dain09&show_icons=true&theme=radical&bg_color=0d1117&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&hide_border=true&count_private=true" height="160" alt="Abdallah's GitHub Stats"/>
@@ -79,22 +80,22 @@ My craft is centered around the deepest layers of the Android ecosystem. I speci
 
 ---
 
-> <p align="center"><i>"The details are not the details. They make the design."</i></p>
-> <p align="center"><sub>– Charles Eames</sub></p>
+> <p align="center"><i>"From one thing, know ten thousand things."</i></p>
+> <p align="center"><sub>– Miyamoto Musashi, The Book of Five Rings</sub></p>
 
 ---
 
-### ◈ Future Endeavors ◈
+### 「 道 」— The Path Forward
 
-My roadmap is focused on continuous mastery and contribution. Key objectives include:
+My journey is one of continuous improvement and contribution. Key objectives on my path:
 
--   **`[Core Contributor]`**: Become a core contributor to a leading AOSP project like LineageOS.
--   **`[Digital Showcase]`**: Architect and deploy a personal portfolio website to document my journey and projects.
--   **`[Knowledge Sharing]`**: Develop and publish in-depth tutorials on AOSP and kernel development.
--   **`[Modern Android]`**: Achieve mastery in modern development with Jetpack Compose and advanced Kotlin.
+»   Become a core contributor to a leading AOSP project like **LineageOS**.
+»   Architect and deploy a personal portfolio to document my craft and projects.
+»   Share knowledge through in-depth tutorials on **AOSP & Kernel Development**.
+»   Achieve mastery in modern Android development with **Jetpack Compose**.
 
 <br>
 
 <p align="center">
-  <sub><sup>Crafted with passion, driven by code.</sup></sub>
+  <sub><sup>Perfection in every line.</sup></sub>
 </p>
