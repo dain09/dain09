@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  I walk the path of a Code Ronin—a masterless developer bound only by the Bushido of clean, efficient code. My domain is the Android Open Source Project, where I treat the source code as <i>tamahagane</i> steel, forging it into a flawless blade. Every commit is a precise strike, every system optimization a mastered kata.
+  I walk the path of a Code Ronin—a masterless developer bound only by the Bushido of clean, efficient code. My primary domain is the Android Open Source Project, where I treat the source code as <i>tamahagane</i> steel, forging it into a flawless blade. Every commit is a precise strike, every system optimization a mastered kata.
 </p>
 
 </div>
@@ -18,20 +18,20 @@
 <p align="center">
   <a href="https://t.me/D_ai_n"><img src="https://img.shields.io/badge/Telegram-Sparring_Ground-000000?style=for-the-badge&logo=telegram&logoColor=FFFFFF"/></a>
   &nbsp;
-</p>
+</p
 
 ---
 
-### 「 業物 」— A Masterpiece Blade
+### 「 業物 」— A Demonstration of Craft
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="40" alt="androidstudio logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="40" alt="web technologies"  />
   <br><br>
   <p>
     <strong>Chef-in-Your-Pocket</strong>
   </p>
   <p>
-    A successfully forged project that demonstrates mastery over the AOSP framework. This work showcases deep system-level integration and custom feature development, engineered with the precision of a master swordsmith.
+    A testament that a craftsman's discipline transcends any single domain. While my core focus is AOSP, this web-based culinary platform was forged with the same principles of precision and user-centric design. It proves that the warrior's mindset—attention to detail, robust architecture, and an elegant user experience—can be applied to craft a refined digital tool, be it for a system kernel or a kitchen.
   </p>
 </div>
 
@@ -40,7 +40,7 @@
 ### 「 流派 」— My School of Craft
 
 <p align="center">
-My development style is built on three pillars of mastery:
+My development style is built on three pillars of mastery, primarily within the AOSP ecosystem:
 </p>
 
 <table align="center" style="border: none;">
