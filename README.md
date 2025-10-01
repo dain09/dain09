@@ -1,15 +1,14 @@
-<h1 align="center">⚡ Yo, I'm Abdollah (dain09) ⚡</h1>
+<h1 align="center">⚡ Yo, I'm Abdallah ⚡</h1>
 <h3 align="center">👨‍💻 Just a curious mind breaking & building stuff</h3>
 
 ---
 
-```bash
 ### 🕶️ About Me
-- 🚀 Always exploring **Linux | Android | Open Source**
-- 🛠 Currently hacking around with **C++, Python, and Android**
-- 🎯 Goal: Build cool stuff & leave traces in the dev world
-- 🐧 Proud **Linux user** & Mint-powered human
-```
+- 🚀 Exploring **Linux | Android | Open Source**  
+- 🛠 Hacking around with **C++, Python, and Android**  
+- 🎯 Goal → Build cool stuff & leave traces in the dev world  
+- 🐧 Proud **Linux user** & Mint-powered human  
+
 ---
 
 ### 🔗 Connect With Me
@@ -21,14 +20,15 @@
 <img src="https://img.shields.io/badge/Binance_ID-734778270-FCD535?style=for-the-badge&logo=binance&logoColor=black"/>
 </p>
 
-```bash
-# Tech Arsenal
-Languages:   Python | C++ | Java | JavaScript | Dart
-Frameworks:  Node.js | React | Flutter | Firebase
-IDEs:        VS Code | Android Studio | IntelliJ
-OS:          Linux | Windows | Android
-Tools:       Git | Figma | Photoshop | Illustrator
-```
+---
+
+### 💻 Tech Arsenal
+- **Languages:** Python · C++ · Java · JavaScript · Dart  
+- **Frameworks:** Node.js · React · Flutter · Firebase  
+- **IDEs:** VS Code · Android Studio · IntelliJ  
+- **OS:** Linux · Windows · Android  
+- **Tools:** Git · Figma · Photoshop · Illustrator  
+
 ---
 
 ### 📊 GitHub Vibes
