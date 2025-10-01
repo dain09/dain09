@@ -1,33 +1,34 @@
-# Hi there 👋, I'm Abdallah Ibrahim  
+# Hi there, I'm Abdallah Ibrahim 👨‍💻  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dain09&color=blue)  
+![GitHub followers](https://img.shields.io/github/followers/dain09?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/dain09?affiliations=OWNER%2CCOLLABORATOR&style=social)  
+
+---
 
 ## 🚀 About Me  
-- 🌱 Currently learning **software development & Android ROM building**  
-- 🔧 Love **debugging, tinkering, and experimenting**  
-- 🚀 Passionate about **open-source** and sharing knowledge  
-- 🎯 Goal: Keep improving & contribute to awesome projects  
+- Currently learning **software development & Android ROM building**  
+- Love **debugging, tinkering, and experimenting**  
+- Passionate about **open-source and sharing knowledge**  
+- Always aiming to **learn more & contribute more**  
 
 ---
 
 ## 🛠️ Tech Stack  
-- 💻 Languages: **C, C++, Java, Python, Bash**  
-- 📱 Mobile: **Android (ROMs, kernels, mods)**  
-- ⚡ Tools: **Git, Linux, VS Code, AOSP**  
+**Languages:** C, C++, Java, Python, Bash  
+**Mobile:** Android (ROMs, kernels, mods)  
+**Tools:** Git, Linux, VS Code, AOSP  
 
 ---
 
 ## 📊 GitHub Stats  
-![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=dain09&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dain09&layout=compact&theme=tokyonight)  
+![Abdallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=dain09&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dain09&layout=compact&theme=tokyonight&hide_border=true)  
 
 ---
 
 ## ☕ Support Me  
-If you like my work, you can [Buy Me a Coffee](https://www.buymeacoffee.com/d_ai_n) ❤️  
-
-### 💰 Crypto Support  
+- [Buy Me a Coffee](https://www.buymeacoffee.com/d_ai_n)  
 - Binance ID: **734778270**  
 
 ---
@@ -39,4 +40,4 @@ If you like my work, you can [Buy Me a Coffee](https://www.buymeacoffee.com/d_ai
 
 ---
 
-✨ *“Code. Learn. Share. Repeat.”*  
+✨ *"Code. Learn. Share. Repeat."*  
