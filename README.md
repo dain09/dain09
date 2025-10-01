@@ -14,7 +14,6 @@
 ### 🔗 Connect With Me
 <p align="center">
 <a href="https://t.me/d_ai_n"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://github.com/dain09"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/abdollah-ibrahim-12a024388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.buymeacoffee.com/d_ai_n"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Binance_ID-734778270-FCD535?style=for-the-badge&logo=binance&logoColor=black"/>
