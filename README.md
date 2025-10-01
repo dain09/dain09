@@ -27,6 +27,9 @@
 ## ☕ Support Me  
 If you like my work, you can [Buy Me a Coffee](https://www.buymeacoffee.com/d_ai_n) ❤️  
 
+### 💰 Crypto Support  
+- Binance ID: **734778270**  
+
 ---
 
 ## 🌐 Connect with Me  
